@@ -1,4 +1,4 @@
-<h1> Olá!👋 Bem vindo ao meu repositório! </h1>
+<h1> Olá!👋 Bem vindo ao meu GitHub! </h1>
 <p>Meu nome é Gabriel Giatti, tenho 18 anos e logo a baixo está a minha paixão 😁</p>
 <p>Nasci e cresci em Santa Catarina, e desde meus 5 anos mexo com hardware e softwere 💻</p>
 
